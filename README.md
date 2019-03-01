@@ -17,6 +17,12 @@ Web APIs are the primary interface to interact with modern internet and web serv
 
 > :information_source: **Note:** This curriculum is intended to be a 2-day workshop. Ideally, each lesson below could be split further into two for teaching purpose; totaling every session no longer than 45 minutes. 
 
+### :pencil: Learning outcomes 
+* Students will be able to understand basics of web APIs
+* Students will be able to identify the use of API in different example scenarios 
+* Stuentns will be able to understand and practice  Wikipedia APIs and usecases of those
+* Students will be able to use and practice API's in their projects while obtaining support from the community 
+
 ### :book: Lesson 1  
 
 #### Introduction and Overview [[Slides]](https://docs.google.com/presentation/d/1S-Vw21B3Y_s36S37aysec02T-zdl2EwSCwRBv1j6zag/edit?usp=sharing) [~1hr 30m]
